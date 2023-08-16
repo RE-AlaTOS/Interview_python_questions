@@ -38,8 +38,8 @@ Hypotenuse formular: $c^{2}=a^{2}+b^{2}$
 
 ###  Question 1.5: Dictionaries
 
-1. Create a dictionary with a **name** and **age** key.
-2. Individually display the value for each keys.
+1. Create a dictionary with a **name** and **age** keys.
+2. Individually display the value for each key.
 
 Example:
 John turned 15 last month.
@@ -50,7 +50,7 @@ John turned 15 last month.
 ###  Question 1.6: Classes
 Write a Python class named `Rectangle`. \
 This class should have two attributes: `width` and `height`. \
-show the `width` and `height`from the class.
+Show the `width` and `height`from the class.
 
 Optional: \
 Add two methods: `area()` and `perimeter()` that will return the corresponding values.
