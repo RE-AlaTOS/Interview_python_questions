@@ -38,7 +38,7 @@ Hypotenuse formular: $c^{2}=a^{2}+b^{2}$
 
 ###  Question 1.5: Dictionaries
 
-1. Create a dictionary with keys for name and age.
+1. Create a dictionary with keys for **name** and **age**.
 2. Individually display the value for each key.
 
 Example:
