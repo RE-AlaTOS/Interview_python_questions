@@ -22,7 +22,7 @@ Write a Python program that calculates the area of a circle. The radius is input
 ###  Question 1.3: Loops and Conditionals
 Write a Python program to count and display the number of <u>**s**</u> in the following string.
 
-> "Seven silly snakes slithered slowly in the sun"
+> "seven silly snakes slithered slowly in the sun"
 
 ---
 ---
